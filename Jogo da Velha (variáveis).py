@@ -37,6 +37,7 @@ cont = 0    # Numero de jogadas
 
 velha = False
 
+
 while True:
   escolha = ''
 
