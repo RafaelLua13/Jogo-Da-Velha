@@ -1,3 +1,3 @@
 # Jogo-Da-Velha
-Simples jogos-da-Velha elaborados de diferentes formas.
+Simples Jogos-da-Velha elaborados de diferentes formas.
 
